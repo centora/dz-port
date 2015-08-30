@@ -1,4 +1,5 @@
-h1{
-	color: red;
-	background: #ccc;
-}
+h1 {
+  background: red;
+  color: #fff;
+  padding: 20px;
+  font-size: 12px; }
